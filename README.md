@@ -28,3 +28,6 @@ npx playwright show-report
 ```
 allure serve
 ```
+![Suites_Report_Screenshot](https://github.com/user-attachments/assets/0fae187a-5b22-48bf-8096-eaab80f23d61)
+
+![Screenshot_of_show-report](https://github.com/user-attachments/assets/05b65b14-67af-46c8-a211-3e0703bcc1ad)
