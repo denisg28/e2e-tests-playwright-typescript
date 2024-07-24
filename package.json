@@ -1,0 +1,16 @@
+{
+  "name": "playwright_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "@types/node": "^20.14.11",
+    "allure-playwright": "^2.15.1",
+    "playwright": "^1.45.2"
+  },
+  "scripts": {},
+  "dependencies": {
+    "allure-commandline": "^2.29.0"
+  }
+}
