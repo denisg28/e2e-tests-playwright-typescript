@@ -6,7 +6,7 @@
 **Project setup**
 
 ```
-git clone https://github.com/masterjohndoe/e2e-tests.git
+git clone https://github.com/denisg28/e2e-tests-playwright.git
 cd e2e-tests
 
 yarn install
